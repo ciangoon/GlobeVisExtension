@@ -18,8 +18,7 @@ changes.
 
 USER MANUAL
 -----------
-Once the extension is installed in your browser, either through the ’load unpacked’ method men
-tioned above, or through downloading from the Chrome Extension Store, simply navigate to a
+Once the extension is installed in your browser, either through the ’load unpacked’ method mentioned above, or through downloading from the Chrome Extension Store, simply navigate to a
 retail website and select the extension icon on the top right of the browser. The icon looks like a
 jigsaw piece next to the search bar.
 
