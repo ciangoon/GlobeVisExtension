@@ -1,0 +1,22 @@
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+}
+
+#scale-slider {
+  flex: 1;
+}
+
+label {
+  margin-left: 1rem;
+}
+
+
+
