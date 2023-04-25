@@ -5,12 +5,11 @@ a HTML5 Canvas Tag Cloud created by Graham Breach, found at https://www.goat1000
 To install the code as an unpacked extension, follow these steps below.
 -----------------------------------------------------------------------
 
-1. Download the code from the github repository link below.
-2. https://github.com/ciangoon/GlobeVisExtension.git
-3. Then launch a Chrome browser and go to chrome://extensions.
-4. In the top left corner, select ’Load unpacked’
-5. Select the extension folder that you have just downloaded
-6. The extension should appear on the main extension page and can now be used.
+1. Download the code from this github repository.
+2. Launch a Chrome browser and go to chrome://extensions.
+3. In the top left corner, select ’Load unpacked’.
+4. Select the extension folder that you have just downloaded.
+5. The extension should appear on the main extension page and can now be used.
 
 Note: When modifying the code, ensure that the ’Update’ button is selected after each modifi-
 cation, or select the refresh button on the extension, before enabling the extension to test your
